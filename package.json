@@ -1,0 +1,21 @@
+{
+  "name": "kicado",
+  "version": "1.0.1",
+  "description": "King365 catch-up downloader",
+  "main": "index.js",
+  "bin": "index.js",
+  "author": "coronawalrus",
+  "license": "Beerware",
+  "scripts": {
+    "pkg": "pkg"
+  },
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "got": "^11.1.0",
+    "inquirer": "^7.0.5",
+    "moment": "^2.25.1",
+    "pkg": "^4.4.8",
+    "underscore": "^1.10.2",
+    "press-any-key": "^0.1.1"
+  }
+}
