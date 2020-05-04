@@ -1,7 +1,7 @@
 # Kicado
 Kicado is a simple downloader for King365TV catch-up programs.
 
-![](I:\git\kicado\screen.gif)
+![](screen.gif)
 
 ## Features
 
