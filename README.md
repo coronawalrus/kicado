@@ -14,7 +14,7 @@ Kicado is a simple downloader for King365TV catch-up programs.
 
 ### Choice 1 - Compiled binary (for yo momma)
 
-####Preparation
+#### Preparation
 
 Download the latest binary for your OS: 
 
