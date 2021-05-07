@@ -15,7 +15,7 @@
     "inquirer": "^7.0.5",
     "moment": "^2.25.1",
     "pkg": "^4.4.8",
-    "underscore": "^1.10.2",
+    "underscore": "^1.12.1",
     "press-any-key": "^0.1.1"
   }
 }
