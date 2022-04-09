@@ -13,7 +13,7 @@
     "chalk": "^4.0.0",
     "got": "^11.1.0",
     "inquirer": "^7.0.5",
-    "moment": "^2.25.1",
+    "moment": "^2.29.2",
     "pkg": "^4.4.8",
     "underscore": "^1.10.2",
     "press-any-key": "^0.1.1"
